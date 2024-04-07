@@ -141,7 +141,7 @@ No known bugs at this time.
 ## Authors
 Wangutusi Arshton - [Github](https://github.com/wang-arshton256) / [Twitter](https://twitter.com/wangarshtonc)
  
-Victor Chesachi Kalu - [Github](https://github.com/chesahkalu) / [Twitter](https://twitter.com/ai_optimizer)
+Damilola DAMILOLA - [Github](https://github.com/
 
 ## License
 Public Domain. No copy write protection. 
