@@ -139,7 +139,8 @@ Note: The above examples assume that the element to listen to the event on have 
 No known bugs at this time. 
 
 ## Authors
-Mayen Kalu - [Github](https://github.com/mayenkalu) / [Twitter](https://twitter.com/mayen_kalu)  
+Wangutusi Arshton - [Github](https://github.com/wang-arshton256) / [Twitter](https://twitter.com/wangarshtonc)
+ 
 Victor Chesachi Kalu - [Github](https://github.com/chesahkalu) / [Twitter](https://twitter.com/ai_optimizer)
 
 ## License
